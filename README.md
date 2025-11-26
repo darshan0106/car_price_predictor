@@ -152,6 +152,13 @@ http://localhost:8501/
 
 ---
 
+## 🌐 Deployed Application
+
+You can access the live Streamlit app here:
+**[https://darshan0106-car-price-predictor-app-crx1nh.streamlit.app/](https://darshan0106-car-price-predictor-app-crx1nh.streamlit.app/)**
+
+---
+
 ## 📜 License
 
 This project is free to use for learning and academic purposes.
